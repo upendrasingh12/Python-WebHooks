@@ -1,0 +1,10 @@
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/bin/Debug/netcoreapp3.1/Python-WebHooks.deps.json
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/bin/Debug/netcoreapp3.1/Python-WebHooks.runtimeconfig.json
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/bin/Debug/netcoreapp3.1/Python-WebHooks.runtimeconfig.dev.json
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/bin/Debug/netcoreapp3.1/Python-WebHooks.dll
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/bin/Debug/netcoreapp3.1/Python-WebHooks.pdb
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/obj/Debug/netcoreapp3.1/Python-WebHooks.csprojAssemblyReference.cache
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/obj/Debug/netcoreapp3.1/Python-WebHooks.AssemblyInfoInputs.cache
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/obj/Debug/netcoreapp3.1/Python-WebHooks.AssemblyInfo.cs
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/obj/Debug/netcoreapp3.1/Python-WebHooks.dll
+/Users/upendrasingh/Documents/GitHub/Python-WebHooks/obj/Debug/netcoreapp3.1/Python-WebHooks.pdb
